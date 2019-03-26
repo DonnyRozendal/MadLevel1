@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MadLevel1</string>
+
+    <string name="header">Conjunction (AND)</string>
+    <string name="first_row"><![CDATA[<b>A</b><br /><br />T<br /><br />T<br /><br />F<br /><br />F]]></string>
+    <string name="second_row"><![CDATA[<b>B</b><br /><br />T<br /><br />F<br /><br />T<br /><br />F]]></string>
+    <string name="third_row_header">A^B</string>
+    <string name="submit_button">SUBMIT</string>
+</resources>
